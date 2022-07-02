@@ -197,7 +197,7 @@ Home target
 
 
 ##Program:
-/*
+```
  
 Developed by: P Shobika
 RegisterNumber:  212221230096
@@ -235,7 +235,7 @@ r.MoveL(p(1354.51,-793.956,621.243,-180,16.2113,180),[-15.1431,-45.9352,20.6798,
 r.ProgFinish(r"""Mainprog""")
 r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Mainprog""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""")
 
-*/
+```
  
 
  
